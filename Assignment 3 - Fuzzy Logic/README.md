@@ -26,10 +26,10 @@ Suppose our inputs are project_funding and team_experience_level. We can get the
 
 Now that we have the fuzzy values and we can use the fuzzy rules to arrive at the final fuzzy value. The rules are as follows:
 
-1. If project_funding is high or team_experience_level is expert then risk is low.
-2. If project_funding is medium and team_experience_level is intermediate or team_experience_level is beginner then risk is normal.
-3. If project_funding is very low then risk is high.
-4. If project_funding is low and team_experience_level is beginner then risk is high.
+1. If <b>project_funding</b> is high or <b>team_experience_level</b> is expert then <b>risk</b> is low.
+2. If <b>project_funding</b> is medium and <b>team_experience_level</b> is intermediate or <b>team_experience_level</b> is beginner then <b>risk</b> is normal.
+3. If <b>project_funding</b> is very low then <b>risk</b> is high.
+4. If <b>project_funding</b> is low and <b>team_experience_level</b> is beginner then <b>risk</b> is high.
 
 
 ### Input Example:
