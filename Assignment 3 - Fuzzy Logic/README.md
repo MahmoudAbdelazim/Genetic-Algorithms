@@ -19,7 +19,7 @@ Suppose our inputs are project_funding and team_experience_level. We can get the
 - The sets defined for <b>team_experience_level</b> are beginner (0,15,30), intermediate (15,30,45), expert (30,60,60).
 
 
-- The set defined for the risk is <b>low</b> (0,25,50), normal (25,50,75), high (50,100,100).
+- The set defined for the <b>risk</b> is low (0,25,50), normal (25,50,75), high (50,100,100).
 
 
 ### The Rules:
